@@ -1,0 +1,8 @@
+Criar um layout exatamente igual ao exemplo da imagem abaixo, para isso você deve usar HTML e CSS.
+
+Paleta de cores
+#030820
+#121038
+#3A277C
+#9A77CB
+#66FED1

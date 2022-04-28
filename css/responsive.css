@@ -1,0 +1,165 @@
+@media (max-width:600px) {
+    header .circle {
+        width: 15px;
+        height: 15px;
+        margin: -2px;
+    }
+
+    .circulos {
+        position: absolute;
+
+
+    }
+
+    h1 {
+        font-size: 20px !important;
+    }
+
+    .gif-controle {
+        width: 100px;
+        position: absolute;
+        top: 50px;
+        right: 15px;
+    }
+
+    .containerS-1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .containerS-1 .input {
+        margin-top: 300px;
+        font-size: 15px;
+        width: 300px !important;
+        margin-left: -305px !important;
+    }
+
+    .containerS-1 .lupa {
+        margin-top: 300px;
+
+    }
+
+    .sessao-1 .controle {
+        width: 300px;
+        margin-top: -130px;
+    }
+    .sessao-3{
+        display:block;
+        margin:auto;
+    }
+
+    .sessao-3 div {
+        width: 330px;
+        font-size: 20px;
+        color: rgb(54, 67, 78);
+        font-weight: bold;
+    }
+
+    .sessao-4 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container-usuario {
+        display: block;
+        margin: auto;
+
+    }
+
+    .container-galeria {
+        display: block;
+        margin: auto;
+
+
+    }
+
+    .container-galeria div {
+
+        margin-top: 100px;
+        width: 300px;
+        margin-left: 0;
+    }
+
+    .container-galeria img{
+        width: 100%;
+        height:100%;
+        border-radius: 20px;
+    }
+
+    .sessao-2 div {
+        width: 130px;
+        font-size: 16px;
+    }
+
+
+
+}
+
+@media (min-width:601px) and (max-width:1200px) {
+
+
+    .gif-controle {
+        width: 150px;
+        position: absolute;
+        right: 15px;
+    }
+
+    .containerS-1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .containerS-1 .input {
+        margin-top: 300px;
+        font-size: 15px;
+        width: 300px !important;
+        margin-left: -305px !important;
+    }
+
+    .containerS-1 .lupa {
+        margin-top: 300px;
+
+    }
+
+    .sessao-1 .controle {
+        width: 300px;
+        margin-top: -150px;
+    }
+
+    .sessao-3 div {
+        width: 330px;
+        font-size: 20px;
+    }
+
+    .sessao-4 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container-usuario {
+        display: block;
+        margin: auto;
+
+    }
+
+    .container-galeria {
+        display: block;
+        margin: auto;
+
+
+    }
+
+    .container-galeria div {
+        margin-top: 100px;
+        width: 350px;
+    }
+
+}
+
+@media (min-width: 1201px) and (max-width:1700px){
+    .containerS-1 .input{
+        width: 400px;
+    }
+}
